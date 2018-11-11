@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/team/5",
+      "launchUrl": "api/team/3f0f5613-b05e-4b00-a3b4-c38d28866438",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,7 +20,7 @@
     "HMDV.VolleyLeague.Web": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/team/5",
+      "launchUrl": "api/team/3f0f5613-b05e-4b00-a3b4-c38d28866438",
       "applicationUrl": "https://localhost:5001",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
